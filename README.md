@@ -64,19 +64,6 @@ Ensure you have the following software installed:
 
 Each project directory contains specific instructions on how to run the code and experiment with the control and optimization techniques. Follow the README files or instructions within each directory for detailed usage information.
 
-### Example
-
-For the `Control_Systems` project:
-
-1. Navigate to the project directory:
-   ```sh
-   cd Control_Systems
-   ```
-
-2. Open and run the project files in MATLAB/Simulink or Python, depending on the implementation.
-
-3. Review the results and explore the provided examples and scripts.
-
 ## Contributing
 
 Contributions are welcome! If you want to contribute:
